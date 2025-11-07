@@ -5,7 +5,7 @@
 This repository will contain my personal programs and practice exercises for the Data Structures and Algorithms.
 
 ## About
-I will be creating programs here to help me understand the core concepts of data structures and algorithms — including arrays, linked lists, stacks, queues, trees, sorting, searching, and more.
+I will be creating programs here to help me understand the core concepts of DSA — including arrays, linked lists, stacks, queues, trees, sorting, searching, and more.
 
 ## Language to Be Used
 - C Programming Language
