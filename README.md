@@ -25,11 +25,5 @@ I will be creating programs here to help me understand the core concepts of DSA 
 ## Purpose
 This repository will serve as my **personal learning archive** to document my progress, strengthen my coding foundation, and prepare for future programming challenges.
 
-## Semester
-1st Semester – Data Structures and Algorithms  
+
 **Polytechnic University of the Philippines (PUP)**
-
----
-
-### Note
-These programs will be created for educational purposes only. Feel free to explore and learn from them once they are completed!
