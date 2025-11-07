@@ -2,13 +2,16 @@
 
 ![Tony Stark GIF](https://media.tenor.com/h6vlge85-NkAAAAM/tony-stark.gif)
 
-This repository will contain my personal programs and practice exercises for the Data Structures and Algorithms subject in my BSIT - 1st Semester course.
+This repository will contain my personal programs and practice exercises for the Data Structures and Algorithms.
 
 ## About
 I will be creating programs here to help me understand the core concepts of data structures and algorithms — including arrays, linked lists, stacks, queues, trees, sorting, searching, and more.
 
 ## Language to Be Used
-- C Programming Language
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="100"/>
+</p>
+
 
 ## Planned Contents
 - Arrays  
