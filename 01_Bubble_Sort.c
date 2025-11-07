@@ -3,7 +3,7 @@
 
 int main()
 {
-    int arr[] = {4,5,7,6,1,2};
+    int arr[] = {4,5,7,6,1,3};
 
     printf("The unsorted array: \n");
     for(int i = 0; i < 6; i++){
